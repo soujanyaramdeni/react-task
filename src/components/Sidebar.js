@@ -7,7 +7,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <ul>
-        <li><FontAwesomeIcon icon={faChartLine} /> Dashboard</li>
+        <li style={{backgroundColor:"grey"}}><FontAwesomeIcon icon={faChartLine} /> Dashboard</li>
         <li><FontAwesomeIcon icon={faBoxes} /> Inventory</li>
         <li><FontAwesomeIcon icon={faShoppingCart} /> Order</li>
         <li><FontAwesomeIcon icon={faUndo} /> Returns</li>

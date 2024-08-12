@@ -18,7 +18,7 @@ const Dashboard = () => {
       },
       {
         label: 'Sales',
-        data: [1404, 1200, 800, 400, 0],
+        data: [1404, 1200, 800, 400, 200],
         borderColor: 'lightblue',
         fill: false,
         tension: 0.4,
